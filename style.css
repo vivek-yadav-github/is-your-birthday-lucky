@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  background-color: #293b5f;
+}
+h1 {
+  color: #ffe652;
+  font-weight: bold;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  text-transform: uppercase;
+  font-size: 27px;
+}
+label {
+  color: lightseagreen;
+  font-size: 17px;
+}
+input {
+  margin-top: 6.5px;
+  padding-top: 2px;
+  width: 200px;
+}
+#submit {
+  padding: 7px;
+  background-color: lightskyblue;
+  border-radius: 4px;
+  font-weight: italic;
+}
+#submit:hover {
+  background-color: darkolivegreen;
+}
+div {
+  padding-top: 5rem;
+}
+#output {
+  font-size: 25px;
+  color: orange;
+}
